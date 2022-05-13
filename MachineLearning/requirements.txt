@@ -1,0 +1,4 @@
+nmslib
+fastai==1.0.61
+transformers
+sentence-transformers
